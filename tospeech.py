@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  4 11:17:00 2021
-
-@author: 91820
-"""
 #include following libraries in the main file from where this file will be imported
 import gtts
 from time import sleep
